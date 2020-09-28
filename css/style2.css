@@ -1,0 +1,158 @@
+body{
+    margin-top: -5px ;
+    padding: 0;
+}
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+#navbar {
+    background-color: #3983fa;
+    height: 70px;
+    width: 100%;
+    z-index: 1;
+    opacity: 20;
+}
+
+.brand a img {
+    float: left;
+    padding-top: 10px;
+
+}
+
+.signup-link,
+.resume-link,
+.template-link {
+
+    margin-right: 20px;
+}
+
+.img-comp img {
+    float: right;
+    padding-top: 80px;
+    box-sizing: border-box;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-links {
+    float: right;
+    padding-top: 20px;
+}
+
+.nav-links a:hover {
+    color: #E91E63 !important;
+    outline-style: none;
+}
+
+h1{
+    color: teal;
+    font-weight: 600;
+    margin-top: 30px;
+}
+p{
+    margin-bottom: 30px;
+}
+.btn-1 button {
+    background-color: white;
+    font-weight: 700;
+    height: 50px;
+    width: 150px;
+    margin-top: 40px;
+    margin-right: 635px;
+    margin-bottom: 40px;
+    border: 1px solid grey;
+    text-transform: uppercase;
+    border-radius: 10px;
+
+}
+.btn-1 button:hover{
+    background-color:teal;
+    color: ivory;
+    font-weight: 700;
+    height: 50px;
+    width: 150px;
+    margin-top: 40px;
+    margin-right: 635px;
+    margin-bottom: 40px;
+    border: 1px solid grey;
+    text-transform: uppercase;
+
+
+}
+
+
+
+
+.btn-2 button{
+    float: right;
+    background-color:teal;
+    font-weight: 700;
+    border-color:grey;
+    height: 50px;
+    width: 150px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: honeydew;
+    border: 1px solid grey;
+    text-transform: uppercase;
+    border-radius: 10px;
+}
+
+footer {
+    height: 160px;
+    background-color: #fafafb;
+}
+
+footer p {
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    color: black;
+    font-weight: 500;
+}
+
+.social-links {
+    float: right;
+}
+
+
+
+.social-links a {
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 30px;
+
+}
+
+.breadcrumb {
+    background-color: #fafafb !important;
+}
+
+.breadcrumb li {
+    color: black;
+    font-weight: 500;
+}
+
+.breadcrumb li:hover {
+    color: #3983fa;
+}
+
+.breadcrumb-item a {
+    color: black !important;
+    font-weight: 500;
+}
+
+
+.breadcrumb-item a:hover {
+    color: #3983fa !important;
+}
+
+.social-links i {
+    color: #333;
+    font-size: 20px;
+}

@@ -1,0 +1,32 @@
+@media only screen and (max-width:767px) {
+
+    #work .col-md-8 img,
+    .pic .col-md-7 img,
+    .ease .col-md-5 img,
+    .col-md-7 img,
+    .speed .col-md-12 img,
+    .boost .col-md-8 img,
+    main .col-md-1 img, .container{
+        width: 100% !important;
+        left: 8px;
+    }
+
+    .nav-links {
+        float: left;
+        background-color: #3983fa;
+    }
+
+
+    .animated-info {
+        width: 100%;
+        position: absolute;
+        left: 5px;
+
+    }
+
+
+    footer {
+        width: 100% !important;
+    }
+
+}
